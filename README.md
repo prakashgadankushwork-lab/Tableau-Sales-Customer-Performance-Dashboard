@@ -33,7 +33,11 @@ Complex container management and layout distribution
 Tooltip customization for improved data readability
 Design pattern adoption for a professional look-and-feel
 
-<img width="1199" height="799" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/4a7ddceb-73a3-4513-8b76-441681bef1d1" />
+<img width="1199" height="799" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/d37a0e7b-d20b-4295-8408-8009504d41a7" />
 
-<img width="1199" height="799" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/6d61c6fc-607f-47e7-a11f-30b66da225cb" />
+<img width="1199" height="799" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/1b72084d-986f-43d8-b803-84d152f3be7f" />
+
+
+
+
 
